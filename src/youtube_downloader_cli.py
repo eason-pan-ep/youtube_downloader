@@ -3,6 +3,7 @@ from pytubefix.cli import on_progress
 import os
 from pathlib import Path
 
+
 def download_video(url, output_path=None):
     """
     Download a YouTube video given its URL.
