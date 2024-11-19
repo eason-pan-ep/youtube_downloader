@@ -10,6 +10,10 @@ All back-end code is in the `src` folder under the root folder
 #### Front-end
 All front-end code is in `youtube-downloader` folder under the root folder
 
+## Tech stack
+- Front-end: TypeScript + React.js
+- Back-end: Python + Flask
+
 ## Get started
 ### Install the backend
 1. At the root folder, create a virtual environment
