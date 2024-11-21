@@ -50,7 +50,11 @@ def download_video(url, output_path=None):
 def main():
     # Example usage
     url = input("Enter YouTube URL: ")
-    download_video(url)
+    path = input("Enter the destination path (Press Enter to skip it and save to Downloads): ")
+    if path:
+        download_video(url, path)
+    else:
+        download_video(url)
 
 if __name__ == "__main__":
     main()
