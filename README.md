@@ -37,4 +37,9 @@ After installation for back-end and front-end
 ### How to use the cli
 Simply run `python3 src/youtube_downloader_cli.py` and follow the instruction to processed.
 
+---
+### If you like it
+- Give my a thumbs up
+- Send me a cup of coffee using the sponsor button on top of the page
+
 
