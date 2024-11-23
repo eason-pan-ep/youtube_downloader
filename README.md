@@ -42,4 +42,7 @@ Simply run `python3 src/youtube_downloader_cli.py` and follow the instruction to
 - Give my a thumbs up
 - Send me a cup of coffee using the sponsor button on top of the page
 
+---
+Special thanks to the open-sourced API developers for pytubefix (https://github.com/JuanBindez/pytubefix)
+
 
